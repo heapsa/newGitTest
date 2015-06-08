@@ -1,0 +1,99 @@
+
+
+/* Body Custom Fonts */
+
+body {
+	font-family: Lato;
+	font-size: 16px;
+	font-weight: ;
+	line-height: 24px;
+}
+
+input,
+button,
+select,
+textarea {
+	font-family: Lato;
+	font-size: 16px;
+	font-weight: ;
+}
+/* Header and Mobile Custom Fonts */
+
+#logo.logo-text {
+	font-family: Montserrat;
+	font-size: 26px;
+	font-weight: ;
+}
+#my-menu > .mm-panel li a,
+#my-menu > .mm-panel .sub-menu li.has-ul > a,
+#my-menu > .mm-panel .sub-menu li a,
+#navigation-mobile ul li a {
+	font-family: Montserrat;
+	font-weight: ;
+}
+/* Headings Custom Fonts */
+
+h1 {
+	font-family: Loved by the King;
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 48px;
+}
+h2 {
+	font-family: Loved by the King;
+	font-size: 28px;
+	font-weight: 400;
+	line-height: 42px;
+}
+h3 {
+	font-family: Loved by the King;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 36px;
+}
+h4 {
+	font-family: Loved by the King;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 30px;
+}
+h5 {
+	font-family: Loved by the King;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 27px;
+}
+h6 {
+	font-family: Loved by the King;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24px;
+}
+/* Page Header Font */
+
+.title {
+	font-family: Loved by the King;
+	font-size: 38px;
+	font-weight: 400;
+	line-height: 53px;
+}
+/* Page Header Caption Font */
+.caption {
+	font-family: Loved by the King;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 16px;
+}
+/* Other Heading Elements */
+.copyright-text,
+.copyright-text a,
+.close-modal,
+#myModalSearch #searchform input[type="text"],
+footer .footer-copyright,
+footer .footer-copyright a,
+#logo-content .loading-text,
+#loader-percentage,
+.nav-tabs > li > a,
+a.share-btn {
+	font-family: Loved by the King;
+}
