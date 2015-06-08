@@ -1,1 +1,2 @@
 # newGitTest
+Testing the thing.
